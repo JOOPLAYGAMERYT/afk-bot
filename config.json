@@ -1,6 +1,6 @@
 {
 	"ip":"F16_.aternos.me",
-	"port": 30266,
+	"port":30266,
 	"name": "Server",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
