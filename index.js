@@ -39,7 +39,7 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("Welcome to F16 Server");
 });
   
 function task(i) { 
