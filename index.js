@@ -51,7 +51,7 @@ function task(i) {
 	}
 	else{
 		bot.chat("The server is 24/7")
-		first = true;
+		first = false;
 	}
   }, 3600000 * i); 
 } 
